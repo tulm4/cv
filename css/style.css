@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: #1025db;
+}
+
+h3 {
+  color: brown;
+}
+
+hr {
+  border-style: none;
+  border-color: blueviolet;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+}
